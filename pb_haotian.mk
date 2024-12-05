@@ -11,7 +11,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 BOARD_VENDOR :=xiaomi 
 PRODUCT_BRAND :=xiaomi 
 PRODUCT_DEVICE :=haotian 
-PRODUCT_NAME := pb_device
+PRODUCT_NAME := pb_haotian
 PRODUCT_MANUFACTURER :=xiaomi 
 PRODUCT_MODEL :=2410DPN6CC 
 TARGET_VENDOR := xiaomi 15pro
