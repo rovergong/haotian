@@ -32,5 +32,5 @@ $(call inherit-product, device/xiaomi/haotian/device.mk)
 PRODUCT_DEVICE := haotian
 PRODUCT_NAME := twrp_haotian
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Mi15 Pro
+PRODUCT_MODEL := 2410DPN6CC
 PRODUCT_MANUFACTURER := Xiaomi
